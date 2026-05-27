@@ -51,7 +51,7 @@ const Navigation = () => {
             onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
             className="text-2xl font-bold text-white hover:text-teal-400 transition-colors duration-300"
           >
-            VJ
+            VU
             {/* <img src="../assets/hero.png" alt="VU" /> */}
           </button>
 
